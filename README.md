@@ -1,2 +1,2 @@
 # story2
-learning
+learning to write story
