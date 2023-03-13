@@ -1,2 +1,2 @@
 # story2
-learning to write story
+learning to write very good story
