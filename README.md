@@ -1,2 +1,3 @@
 # story2
-learning to write very very good story keep going
+learning to write very very good story 
+keep going
